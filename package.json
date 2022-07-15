@@ -1,0 +1,28 @@
+{
+  "name": "apartment_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "mongoose",
+    "apartment"
+  ],
+  "author": "fire Man 34",
+  "license": "ISC",
+  "dependencies": {
+    "@alicloud/sms-sdk": "^1.1.6",
+    "axios": "^0.27.2",
+    "body-parse": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "ioredis": "^5.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.4",
+    "utility": "^1.17.0"
+  }
+}
