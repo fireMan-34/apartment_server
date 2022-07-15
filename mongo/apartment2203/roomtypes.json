@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "62ce32599a45e88b88b9580b"
+  },
+  "name": "贵房间",
+  "price": 1000,
+  "yaPrice": 1000,
+  "shortName": "前",
+  "liveLimit": 1,
+  "couponNum": 0,
+  "beds": 1,
+  "imgs": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cf71e5b9d7d22ba3f14211"
+  },
+  "name": "fireman34",
+  "price": 1000,
+  "yaPrice": 0,
+  "shortName": "111",
+  "liveLimit": 1,
+  "couponNum": 0,
+  "beds": 1,
+  "imgs": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d116fd550462b2058f5c79"
+  },
+  "name": "两层楼",
+  "price": 1,
+  "yaPrice": 0,
+  "shortName": "11",
+  "liveLimit": 1,
+  "couponNum": 0,
+  "beds": 12,
+  "imgs": [],
+  "__v": 0
+}]

@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "62cc0ce8f63789a4da2eb344"
+  },
+  "name": "5层楼22",
+  "floorInfo": [
+    "增加楼层",
+    "二楼",
+    "我的楼层"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cc0cf2f63789a4da2eb348"
+  },
+  "name": "二3层楼",
+  "floorInfo": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cc0dacf63789a4da2eb374"
+  },
+  "name": "三层楼",
+  "floorInfo": [
+    "一层一",
+    "二层",
+    "三层"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cedaaa9a45e88b88b95e8e"
+  },
+  "name": "号上后3",
+  "floorInfo": [
+    "我的楼层"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cedaec9a45e88b88b95e98"
+  },
+  "name": "你好",
+  "floorInfo": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cedb619a45e88b88b95eac"
+  },
+  "name": "双人楼",
+  "floorInfo": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cf7521b9d7d22ba3f1424e"
+  },
+  "name": "你好我的夏天",
+  "floorInfo": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cf8a7eb9d7d22ba3f14364"
+  },
+  "floorInfo": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cf8a96b9d7d22ba3f1436c"
+  },
+  "name": "fireman34",
+  "floorInfo": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cf8a9ab9d7d22ba3f14370"
+  },
+  "name": "3层楼",
+  "floorInfo": [
+    "二楼",
+    "三楼"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cf8aa4b9d7d22ba3f14374"
+  },
+  "name": "两层楼",
+  "floorInfo": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cfa522188bea5dbe3e2d44"
+  },
+  "name": "fireman34",
+  "floorInfo": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cfa53b188bea5dbe3e2d48"
+  },
+  "name": "123",
+  "floorInfo": [],
+  "__v": 0
+}]

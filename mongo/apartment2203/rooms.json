@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "62ce3bc69a45e88b88b95830"
+  },
+  "floor": "三层",
+  "type": "62ce32599a45e88b88b9580b",
+  "roomName": "老房间",
+  "buildId": "62cc0dacf63789a4da2eb374",
+  "phone4in": "123455",
+  "phone4out": "123445",
+  "imgs": [],
+  "direction": "3",
+  "isClose2Road": false,
+  "hasWindow": true,
+  "isSmoke": false,
+  "isNoise": false,
+  "isHigh": false,
+  "sthintheroom": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cfe7e59728b4996ce240ee"
+  },
+  "floor": "二层",
+  "type": "62ce32599a45e88b88b9580b",
+  "roomName": "临时房子",
+  "buildId": "62cf70a6b9d7d22ba3f141f7",
+  "phone4in": "123456",
+  "phone4out": "12345",
+  "imgs": [],
+  "direction": "2",
+  "isClose2Road": true,
+  "hasWindow": false,
+  "isSmoke": false,
+  "isNoise": true,
+  "isHigh": false,
+  "sthintheroom": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d0be69550462b2058f59c3"
+  },
+  "floor": "二楼",
+  "type": "62ce32599a45e88b88b9580b",
+  "roomName": "字段",
+  "buildId": "62cc0ce8f63789a4da2eb344",
+  "phone4in": "12",
+  "phone4out": "13",
+  "imgs": [],
+  "direction": "2",
+  "isClose2Road": false,
+  "hasWindow": true,
+  "isSmoke": true,
+  "isNoise": true,
+  "isHigh": false,
+  "sthintheroom": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d0c579550462b2058f5ac9"
+  },
+  "phone4in": "12",
+  "phone4out": "",
+  "imgs": [],
+  "sthintheroom": [],
+  "__v": 0,
+  "buildId": "62cc0ce8f63789a4da2eb344",
+  "direction": "3",
+  "floor": "二楼",
+  "hasWindow": true,
+  "isClose2Road": true,
+  "isHigh": true,
+  "isNoise": true,
+  "roomName": "字段",
+  "type": "62ce32599a45e88b88b9580b"
+},{
+  "_id": {
+    "$oid": "62d0c667550462b2058f5af7"
+  },
+  "phone4in": "123456",
+  "phone4out": "",
+  "imgs": [],
+  "sthintheroom": [],
+  "__v": 0,
+  "buildId": "62cc0ce8f63789a4da2eb344",
+  "direction": "2",
+  "floor": "二楼",
+  "hasWindow": true,
+  "isClose2Road": false,
+  "isHigh": false,
+  "isNoise": true,
+  "roomName": "房间3",
+  "type": "62ce32599a45e88b88b9580b"
+},{
+  "_id": {
+    "$oid": "62d0c775550462b2058f5b29"
+  },
+  "phone4in": "123456",
+  "phone4out": "",
+  "imgs": [],
+  "sthintheroom": [],
+  "__v": 0,
+  "buildId": "62cc0ce8f63789a4da2eb344",
+  "floor": "我的楼层",
+  "hasWindow": true,
+  "isClose2Road": true,
+  "isHigh": true,
+  "isNoise": false,
+  "roomName": "房间7",
+  "type": "62ce32599a45e88b88b9580b"
+},{
+  "_id": {
+    "$oid": "62d0c853550462b2058f5b5d"
+  },
+  "floor": "二楼",
+  "type": "62ce32599a45e88b88b9580b",
+  "roomName": "房间3",
+  "buildId": "62cc0ce8f63789a4da2eb344",
+  "phone4in": "123456",
+  "phone4out": "",
+  "imgs": [],
+  "direction": "1",
+  "isClose2Road": false,
+  "hasWindow": true,
+  "isNoise": true,
+  "isHigh": false,
+  "sthintheroom": [],
+  "__v": 0
+}]
